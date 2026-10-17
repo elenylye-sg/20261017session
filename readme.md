@@ -1,1 +1,1 @@
-This is a test for VS code.
+This is a test for VS code github lesson.
